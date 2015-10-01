@@ -1,8 +1,8 @@
 # Data Mining
 
-This is an academic project which is using facebook api to get the public information
+This is an academic project which is using facebook api to get the public information:<br />
 
 Tools:
-https://developers.facebook.com/
-https://developers.facebook.com/tools/explorer
+https://developers.facebook.com/ <br />
+https://developers.facebook.com/tools/explorer <br />
 http://restfb.com/
